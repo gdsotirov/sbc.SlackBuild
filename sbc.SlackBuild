@@ -17,13 +17,13 @@
 # along with this program; if not, write to the Free Software
 # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 # 
-# $Id: sbc.SlackBuild,v 1.1 2015/05/31 15:01:47 gsotirov Exp $
+# $Id: sbc.SlackBuild,v 1.2 2015/05/31 16:15:13 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=sbc
-VERSION=1.1
+VERSION=1.3
 BUILD=${BUILD:-1}
 
 TMP=${TMP:-/tmp}
