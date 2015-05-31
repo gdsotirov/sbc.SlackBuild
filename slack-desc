@@ -1,0 +1,11 @@
+sbc: SBC (A Sub Band CODEC library)
+sbc:
+sbc: This package provides the library and tool which operate SBC (sub band
+sbc: codec) in A2DP (the Advanced Audio Distribution Profile).
+sbc:
+sbc:
+sbc:
+sbc:
+sbc:
+sbc:
+sbc: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
